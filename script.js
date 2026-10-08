@@ -103,11 +103,11 @@
     'Landing page': 'landing'
   };
   const explanations = {
-    'Convite Clássico': 'Arte tradicional para compartilhar. Não inclui botões clicáveis na imagem.',
-    'Convite Clássico Interativo': 'Panfleto em página web com WhatsApp e Maps.',
-    'Convite Premium': 'Convite com abertura, conteúdo em seções e efeitos especiais.',
-    'Site-surpresa personalizado': 'Presente digital com mensagens, histórias e interações.',
-    'Landing page': 'Uma página para apresentar sua oferta ou serviço.',
+    'Convite Clássico': '1 arte vertical em PNG e PDF simples, até 2 rodadas de ajustes. Prazo estimado: 2–3 dias úteis. Sem botões clicáveis.',
+    'Convite Clássico Interativo': '1 página estilo panfleto com WhatsApp e Maps, até 2 rodadas de ajustes. Prazo estimado: 3–5 dias úteis.',
+    'Convite Premium': 'Até 5 seções, abertura, contagem regressiva, WhatsApp e Maps; 2 rodadas de ajustes. Prazo estimado: 5–8 dias úteis.',
+    'Site-surpresa personalizado': 'Até 5 seções, carta, 2 interações e até 5 imagens autorizadas; 2 rodadas de ajustes. Prazo estimado: 4–7 dias úteis.',
+    'Landing page': 'Até 6 seções, contato, chamada para ação e SEO básico; 2 rodadas de ajustes. Prazo estimado: 7–12 dias úteis.',
     'Site institucional': 'Apresentação do negócio com estrutura definida sob orçamento.',
     'Portfólio profissional': 'Página ou site para apresentar seus trabalhos.',
     'Outro projeto digital': 'Conte sua ideia e vamos estudar a melhor solução.'
